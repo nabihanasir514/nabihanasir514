@@ -1,7 +1,7 @@
 - # 👋 Hello, I'm Nabiha Nasir! 
 
 **Software Developer | Problem Solver | Lifelong Learner**  
-📧 **Reach me:** nabihanasir8375@gmail.com |https://www.linkedin.com/in/nabiha-nasir-4a06a2349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android  
+📧 **Reach me:** nabihanasir8375@gmail.com    |    https://www.linkedin.com/in/nabiha-nasir-4a06a2349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android  
 😄 **Pronouns:** She/Her  
 
 ### 🛠️ Technical Skills  
