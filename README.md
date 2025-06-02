@@ -23,7 +23,7 @@
 ### 💼 Projects I’ve Worked On
 - 📚 **Library Management System** – C++ project with menu-based UI  
 - 🏥 **Hospital Management System** – C++ patient record system with file handling  
-- 🎓 **StudySwap** (Spot-sharing concept for students)
+- 🎓 **StudySwap**-C++ Spot-sharing concept for students
 
 ---
 
