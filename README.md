@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
 <p align="center">
-  <img src="<p align="center">
-
-
-</p>
+ </p>
 
 <h3 align="center">🚀 A passionate learner, developer & tech enthusiast</h3>
 
