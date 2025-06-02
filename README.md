@@ -16,12 +16,22 @@
 - Building scalable software systems  
 - Open-source contributions  
 - Technical writing & documentation  
-- UI/UX design principles  
+- UI/UX design principles
+-  
 
 ### 💞️ Collaboration Goals
 I'm excited to collaborate on:  
 ✅ Open-source projects in C++/Python  
 ✅ Educational tech initiatives  
 ✅ Hackathons/competitive programming  
-> 
+>
+>  
+### 🏆 Achievements  
+- **Microsoft Micathon 2024**  
+  - Collaborated on [Study Swap App]
+    
+### **Socities** 
+   -ACM.GIKI CHAPTER
+   -AIFS.GIKI CHAPTER
+
 
