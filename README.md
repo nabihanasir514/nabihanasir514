@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: **Data Structures and Alogorithms**
 - 🌱 Currently learning: **Software Development**
 - 💬 Ask me about: **C++ OOP, Python basics, GitHub**
-- 📫 Reach me via:https://www.linkedin.com/in/nabiha-nasir-4a06a2349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app *(update your link!)*
+- 📫 Reach me via: **[https://www.linkedin.com/in/nabiha-nasir-4a06a2349](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)**
 - ⚡ Fun fact: I can turn ☕ into clean, working code!
 
 ---
