@@ -1,54 +1,32 @@
-# Hi there, I'm Nabiha Nasir 👋
+# Hi, I'm Nabiha Nasir 👋
 
-**Software Developer @ GIKI | Competitive Programmer | Open Source Contributor**
+**Computer Science Student | GIKI | Software Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nabihanasir-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
-[![Gmail](https://img.shields.io/badge/Gmail-nabihanasir8375-red?style=flat&logo=gmail)](mailto:nabihanasir8375@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nabihanasir-orange?style=flat&logo=leetcode)](your-leetcode-link)
-
----
-
-### 🏫 Education
-- **BS Computer Science**  
-  Ghulam Ishaq Khan Institute (GIKI)  
-  *2022-2026*  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-facebook-link)
 
 ---
 
-### 🔧 Technical Skills
-**Languages:** C++, Python, JavaScript  
-**Development:** Git, VS Code, Linux  
-**Concepts:** DSA, OOP, DBMS  
+### 🔧 Skills
+- **Languages:** C++, Python
+- **Development:** Git, VS Code
+- **Concepts:** OOP, DSA
 
 ---
 
-### 🌱 Currently Working On
-- Advanced C++ concepts
-- Cybersecurity projects
-- Competitive programming problems
+### 📚 Education
+**Ghulam Ishaq Khan Institute (GIKI)**  
+BS Computer Science (2022-2026)
 
 ---
 
-### 🏆 Achievements
-- **Microsoft Micathon 2024** - Study Swap App
-- **ACM GIKI Chapter** - Active Member
-- **AIFS GIKI Chapter** - Technical Team
+### 🌱 Currently Learning
+- Advanced C++
+- Cybersecurity basics
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
-</p>
-
----
-
-### 📫 How to reach me:
+### 📫 Contact
 **Email:** nabihanasir8375@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/nabiha-nasir-4a06a2349  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue" alt="profile views" />
-</p>
+**LinkedIn:** [Nabiha Nasir](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
