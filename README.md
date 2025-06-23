@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
-<p align="center">
- </p>
 
 <h3 align="center">🚀 A passionate learner, developer & tech enthusiast</h3>
 
@@ -9,6 +7,7 @@
 </p>
 
 ---
+
 ### 🧠 About Me
 
 - 🔭 Currently working on: **Data Structures and Algorithms**
@@ -19,28 +18,32 @@
 
 ---
 
-💼 Projects I’ve Worked On
-🌐 Personal Portfolio Website
-Responsive website built with HTML, CSS, and JavaScript showcasing my projects, skills, and contact details.
+### 💼 Projects I’ve Worked On
 
-📚 Library Management System
-C++ based console application for managing books, issuing/returning records, and student data using file handling.
+- 🌐 **Personal Portfolio Website**  
+  Responsive website built with HTML, CSS, and JavaScript showcasing my projects, skills, and contact details.
 
-🏥 Hospital Management System
-Menu-driven C++ program to manage patient records, appointments, and billing using structured file I/O.
+- 📚 **Library Management System**  
+  C++ based console application for managing books, issuing/returning records, and student data using file handling.
 
-👩‍🎓 Study Group Scheduler
-Web-based platform concept for students to plan study sessions with group chat, time slots, and reminders.
+- 🏥 **Hospital Management System**  
+  Menu-driven C++ program to manage patient records, appointments, and billing using structured file I/O.
 
-🔄 StudySwap App
-C++ based student utility app that allows students to swap study sessions/slots based on availability and workload.
+- 👩‍🎓 **Study Group Scheduler**  
+  Web-based platform concept for students to plan study sessions with group chat, time slots, and reminders.
 
-🧑‍🏫 Learning Management System (LMS)
-Full-stack concept for an education system to manage courses, upload material, conduct quizzes, and maintain performance tracking.
+- 🔄 **StudySwap App**  
+  C++ based student utility app that allows students to swap study sessions/slots based on availability and workload.
 
-🎵 Spotify Lite
-Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme toggle, song list, progress bar, and responsive design###
-🛠️ Languages & Tools
+- 🧑‍🏫 **Learning Management System (LMS)**  
+  Full-stack concept for an education system to manage courses, upload material, conduct quizzes, and maintain performance tracking.
+
+- 🎵 **Spotify Lite**  
+  Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme toggle, song list, progress bar, and responsive design.
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -53,6 +56,7 @@ Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabihanasir514&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabihanasir514&layout=compact&theme=tokyonight" width="48%" />
@@ -61,9 +65,13 @@ Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme
 ---
 
 ### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/nabihanasir127"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/nabiha8375"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-_🌟 Thank you for visiting my profile! Feel free to explore my repositories and drop a ⭐ if something interests you!
+
+---
+
+_🌟 Thank you for visiting my profile! Feel free to explore my repositories and drop a ⭐ if something interests you!_
