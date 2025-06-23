@@ -19,11 +19,29 @@
 
 ---
 
-### 💼 Projects I’ve Worked On
-- 📚 **Library Management System** – C++ project with menu-based UI  
-- 🏥 **Hospital Management System** – C++ patient record system with file handling  
-- 🎓 **StudySwap**-C++ Spot-sharing concept for students
-### 🛠️ Languages & Tools
+💼 Projects I’ve Worked On
+🌐 Personal Portfolio Website
+Responsive website built with HTML, CSS, and JavaScript showcasing my projects, skills, and contact details.
+
+📚 Library Management System
+C++ based console application for managing books, issuing/returning records, and student data using file handling.
+
+🏥 Hospital Management System
+Menu-driven C++ program to manage patient records, appointments, and billing using structured file I/O.
+
+👩‍🎓 Study Group Scheduler
+Web-based platform concept for students to plan study sessions with group chat, time slots, and reminders.
+
+🔄 StudySwap App
+C++ based student utility app that allows students to swap study sessions/slots based on availability and workload.
+
+🧑‍🏫 Learning Management System (LMS)
+Full-stack concept for an education system to manage courses, upload material, conduct quizzes, and maintain performance tracking.
+
+🎵 Spotify Lite
+Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme toggle, song list, progress bar, and responsive design###
+🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
