@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
 <h3 align="center">💻 A passionate Software Engineering Student from Pakistan</h3>
 
-<img align="right" alt="girl-coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" alt="girl-coding" width="300" src="assets/programmer-girl.png" />
+
 
 
 <p align="left">
