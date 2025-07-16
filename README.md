@@ -1,10 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
 <h3 align="center">🚀 A passionate Software Engineering Student from Pakistan</h3>
 
- <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
-
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nabihanasir514&label=Profile%20views&color=0e75b6&style=flat" alt="nabihanasir514" />
@@ -12,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, C++, DSA, and Web Development**
 
-- 💬 Ask me about **C++ OOP, Python, Problem Solving, and Frontend Projects**
+- 💬 Ask me about **C++ OOP, Problem Solving, and Frontend Projects**
 
 - 📫 Reach me at **nabihanasir127@gmail.com**
 
@@ -40,9 +37,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -55,6 +49,7 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
+  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" alt="Girl Coding" width="80" style="border-radius: 10px;" />
 </p>
 
 ---
