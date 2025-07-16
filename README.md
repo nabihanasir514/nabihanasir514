@@ -1,73 +1,81 @@
+
+ 
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
-<h3 align="center">💻 A passionate Software Engineering Student from Pakistan</h3>
 
-<img align="right" alt="girl-coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a805b70d7ff9d90f203469d7f2.gif" />
+<h3 align="center">🚀 A passionate learner, developer & tech enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nabihanasir514&label=Profile%20views&color=0e75b6&style=flat" alt="nabihanasir514" />
-</p>
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, C++, DSA, and Web Development**  
-- 💬 Ask me about **Frontend Projects, C++ OOP, Problem Solving**  
-- 📫 Reach me at **nabihanasir127@gmail.com**  
-- ⚡ Fun fact: **I turn ☕ into clean code — and make it beautiful!**  
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nabiha-nasir-4a06a2349" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiha-nasir" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/nabiha8375" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabiha8375" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nabihanasir127" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabihanasir127" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=08F7FE&center=true&vCenter=true&width=440&lines=Aspiring+Software+Engineer;C%2B%2B+%7C+Python+%7C+Web+Learner;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
+### 🧠 About Me
+
+- 🔭 Currently working on: **Data Structures and Algorithms**
+- 🌱 Learning: **Software Development, Linear Algebra**
+- 💬 Ask me about: **C++ OOP, Python, Problem Solving**
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
+- ⚡ Fun fact: I turn ☕ into clean, readable code.
+
+---
+
+### 💼 Projects I’ve Worked On
+
+- 🌐 **Personal Portfolio Website**  
+  Responsive website built with HTML, CSS, and JavaScript showcasing my projects, skills, and contact details.
+
+- 📚 **Library Management System**  
+  C++ based console application for managing books, issuing/returning records, and student data using file handling.
+
+- 🏥 **Hospital Management System**  
+  Menu-driven C++ program to manage patient records, appointments, and billing using structured file I/O.
+
+- 👩‍🎓 **Study Group Scheduler**  
+  Web-based platform concept for students to plan study sessions with group chat, time slots, and reminders.
+
+- 🔄 **StudySwap App**  
+  C++ based student utility app that allows students to swap study sessions/slots based on availability and workload.
+
+- 🧑‍🏫 **Learning Management System (LMS)**  
+  Full-stack concept for an education system to manage courses, upload material, conduct quizzes, and maintain performance tracking.
+
+- 🎵 **Spotify Lite**  
+  Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme toggle, song list, progress bar, and responsive design.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabihanasir514&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabihanasir514&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabihanasir514&theme=tokyonight" alt="GitHub Streak" /></p>
-
----
-
-<h3 align="left">🌟 Projects:</h3>
-
-- 🎨 **Personal Portfolio Website** — Theme toggle, responsive layout, and animations  
-- 📚 **Library Management System (C++)** — Console-based system using file handling  
-- 🏥 **Hospital Record System (C++)** — Menu-driven patient record manager  
-- 🎵 **Spotify Lite Clone** — Clean music player UI with JavaScript  
-- 📖 **Study Group Scheduler** — A web concept to coordinate student study sessions  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabihanasir514&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabihanasir514&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-<p align="center"><i>💖 Thank you for visiting! Drop a ⭐ if you like my projects or ideas.</i></p>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nabihanasir127"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/nabiha8375"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+_🌟 Thank you for visiting my profile! Feel free to explore my repositories and drop a ⭐ if something interests you!_ update it
+
+
