@@ -8,54 +8,44 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on: **Data Structures and Algorithms**
-- 🌱 Learning: **Software Development, Linear Algebra**
-- 💬 Ask me about: **C++ OOP, Python, Problem Solving**
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
-- ⚡ Fun fact: I turn ☕ into clean, readable code.
-
----
-
-### 💼 Projects I’ve Worked On
-
-- 🌐 **Personal Portfolio Website**  
-  Responsive website built with HTML, CSS, and JavaScript showcasing my projects, skills, and contact details.
-
-- 📚 **Library Management System**  
-  C++ based console application for managing books, issuing/returning records, and student data using file handling.
-
-- 🏥 **Hospital Management System**  
-  Menu-driven C++ program to manage patient records, appointments, and billing using structured file I/O.
-
-- 👩‍🎓 **Study Group Scheduler**  
-  Web-based platform concept for students to plan study sessions with group chat, time slots, and reminders.
-
-- 🔄 **StudySwap App**  
-  C++ based student utility app that allows students to swap study sessions/slots based on availability and workload.
-
-- 🧑‍🏫 **Learning Management System (LMS)**  
-  Full-stack concept for an education system to manage courses, upload material, conduct quizzes, and maintain performance tracking.
-
-- 🎵 **Spotify Lite**  
-  Lightweight music player UI built with HTML, CSS, and JavaScript. Includes theme toggle, song list, progress bar, and responsive design.
+- 🔭 Currently exploring **Data Structures and Algorithms**
+- 🌱 Learning **Web Development**, **OOP**, and **Linear Algebra**
+- 💬 Ask me about **C++**, **Python**, and **Problem Solving**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
+- ☕ Fun fact: I turn caffeine into clean, efficient code!
 
 ---
 
-### 🛠️ Languages & Tools
+## 💼 Projects I’ve Worked On
+
+| Project | Description |
+|--------|-------------|
+| 🌐 **Portfolio Website** | A fully responsive personal portfolio using HTML, CSS, and JavaScript. |
+| 📚 **Library Management System** | Console-based C++ app managing book records and student data using file handling. |
+| 🏥 **Hospital Management System** | C++ menu-driven system for managing appointments, records, and billing. |
+| 👩‍🎓 **Study Group Scheduler** | Concept for scheduling study sessions with reminders and chat. |
+| 🔄 **StudySwap App** | A C++ tool for swapping study sessions among students. |
+| 🧑‍🏫 **Learning Management System** | Full-stack LMS concept with course uploads, quizzes, and analytics. |
+| 🎵 **Spotify Lite** | A mini music player UI built with HTML, CSS, and JS featuring dark mode and playlist UI. |
+
+---
+
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabihanasir514&show_icons=true&theme=tokyonight" width="48%" />
@@ -64,14 +54,20 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/nabihanasir127"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/nabiha8375"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nabihanasir127" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nabiha8375" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-_🌟 Thank you for visiting my profile! Feel free to explore my repositories and drop a ⭐ if something interests you!_
+_⭐ Thank you for visiting my profile. If you find something useful, feel free to give it a star or connect!_
