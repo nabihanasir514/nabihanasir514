@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
 <h3 align="center">🚀 A passionate Software Engineering Student from Pakistan</h3>
 
-<img align="right" alt="Developer Girl" width="400" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" />
+ <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nabihanasir514&label=Profile%20views&color=0e75b6&style=flat" alt="nabihanasir514" />
