@@ -1,9 +1,8 @@
-![logo](https://github.com/nabihanasir514/nabihanasir514/assets/your-logo-path/logo.png)
 
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
 <h3 align="center">💻 A passionate Software Engineering Student from Pakistan</h3>
 
-<img align="right" alt="girl-coding" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
+<img align="right" alt="girl-coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nabihanasir514&label=Profile%20views&color=0e75b6&style=flat" alt="nabihanasir514" />
