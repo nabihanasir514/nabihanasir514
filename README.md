@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Nabiha Nasir</h1>
 <h3 align="center">💻 A passionate Software Engineering Student from Pakistan</h3>
 
-<img align="right" alt="girl-coding" width="300" src="assets/programmer-girl.png" />
-
-
+<img align="right" alt="girl-coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a805b70d7ff9d90f203469d7f2.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nabihanasir514&label=Profile%20views&color=0e75b6&style=flat" alt="nabihanasir514" />
@@ -49,7 +46,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" alt="girl-coding" width="80" style="border-radius:10px;" />
 </p>
 
 ---
