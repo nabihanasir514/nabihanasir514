@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./redmi.jpg" alt="Nabiha Coding Banner" style="width: 100%; height: auto; max-height: 200px; object-fit: cover; object-position: top;" />
+  <img src="./redmi.jpg" alt="Nabiha Coding Banner" style="width: 100%; height: 100; max-height: 100px; object-fit: cover; object-position: top;" />
 </div>
 
 <br>
