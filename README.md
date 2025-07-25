@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="./redmi.jpg" width="300" length="900" alt="Nabiha Coding" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=F94F6D&center=true&repeat=false&width=600&height=60&lines=Hi%2C+I'm+Nabiha+Nasir!+Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="./coder-nabiha.png" alt="Nabiha Coding" width="500" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" />
 </div>
-
 <br>
 
 <div align="center">
