@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./coder-nabiha.png" alt="Nabiha Coding" width="500" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" />
+  <img src="./coder-nabiha.jpg" alt="Nabiha Coding" width="500" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" />
 </div>
 <br>
 
