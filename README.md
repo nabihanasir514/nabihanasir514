@@ -1,10 +1,12 @@
 <div align="center">
- <img src="./redmi.jpg" style="width: 100%; height: 400px;" alt="Nabiha Coding Banner"object-fit: cover; object-position: top;"  />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=F94F6D&center=true&repeat=false&width=600&height=60&lines=Hi%2C+I'm+Nabiha+Nasir!+Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="./redmi.jpg" style="width: 100%; height: 400px; object-fit: cover; object-position: top;" alt="Nabiha Coding Banner" />
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=F94F6D&center=true&repeat=false&width=600&height=60&lines=Hi%2C+I'm+Nabiha+Nasir!+Welcome+to+my+GitHub" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349" target="_blank">
@@ -18,36 +20,41 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabihanasir514&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nabihanasir514?label=Followers&style=flat&logo=github" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
 Hi! I'm **Nabiha Nasir** — a passionate **Software Engineering student** who enjoys solving real-world problems with clean and creative code.
 
-- 💻 Exploring **C++**, **Python**, and **Web Development**
-- 🧠 Currently learning **DSA**, **Full Stack Dev**, and **Linear Algebra**
-- ☕ I turn coffee and curiosity into code
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
+- 🌱 Exploring **C++**, **Python**, and **Web Development**
+- 📚 Learning **DSA**, **Full Stack Dev**, and **Linear Algebra**
+- ☕ Fueled by coffee and curiosity
+- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
 
 ---
 
 ## 🚀 Projects I'm Proud Of
 
 ### 🎵 Spotify Lite  
-A simple, elegant music player built with **HTML, CSS, and JS**  
-✅ Theme toggle, volume control, progress bar
+🎧 Simple, elegant music player using **HTML, CSS, JS**  
+🔘 Features: Theme toggle, volume control, progress bar
 
 ### 📚 Library Management System  
-C++ console app for managing books and users  
-✅ OOP-based, file handling, menu interface
+📖 C++ console app for managing books and users  
+🛠️ OOP-based, file handling, menu interface
 
 ### 🏥 Hospital Management System  
-C++ app for patient and billing management  
-✅ Modular, scalable, intuitive logic
+🩺 C++ app for patient & billing management  
+📂 Modular, scalable, intuitive logic
 
 ### 🌐 Personal Portfolio  
-Fully responsive site built with **HTML/CSS/JS**  
-✅ Project showcase, skills section, contact form
+💻 Responsive site with **HTML/CSS/JS**  
+📸 Includes project showcase, contact form, and skills
 
 ---
 
@@ -64,6 +71,14 @@ Fully responsive site built with **HTML/CSS/JS**
 
 ---
 
+## 🌱 Currently Working On
+
+- Building a To-Do Web App with React
+- Practicing competitive programming on LeetCode
+- Expanding my portfolio with real-world projects
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -71,7 +86,15 @@ Fully responsive site built with **HTML/CSS/JS**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabihanasir514&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabihanasir514&theme=tokyonight&hide_border=true" />
+</div>
+
 ---
+
+## 💬 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
