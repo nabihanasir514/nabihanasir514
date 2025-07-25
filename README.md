@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./coder-nabiha.jpg" alt="Nabiha Coding" width="500" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);" />
-</div>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349" target="_blank">
