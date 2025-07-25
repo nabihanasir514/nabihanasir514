@@ -27,14 +27,20 @@
 
 ---
 
+---
+
 ## 👩‍💻 About Me
 
-Hi! I'm **Nabiha Nasir** — a passionate **Software Engineering student** who enjoys solving real-world problems with clean and creative code.
+I'm **Nabiha Nasir**, a dedicated **Software Engineering student** with a strong interest in building practical and impactful software solutions. I’m focused on writing clean, maintainable code and continuously improving my development skills.
 
-- 🌱 Exploring **C++**, **Python**, and **Web Development**
-- 📚 Learning **DSA**, **Full Stack Dev**, and **Linear Algebra**
-- ☕ Fueled by coffee and curiosity
-- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
+### Areas of Focus
+- Programming in **C++**, **Python**, and **JavaScript**
+- Building responsive websites with **HTML**, **CSS**, and **JS**
+- Strengthening knowledge in **Data Structures**, **Algorithms**, and **Full Stack Development**
+
+I enjoy turning ideas into functional applications and thrive in learning-driven environments.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
 
 ---
 
