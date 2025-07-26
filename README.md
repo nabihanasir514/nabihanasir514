@@ -5,8 +5,9 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=F94F6D&center=true&repeat=false&width=600&height=60&lines=Hi%2C+I'm+Nabiha+Nasir!+Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=F94F6D&center=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Nabiha+Nasir!+Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349" target="_blank">
