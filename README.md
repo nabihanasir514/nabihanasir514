@@ -44,26 +44,8 @@ I enjoy turning ideas into functional applications and thrive in learning-driven
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nabiha-nasir-4a06a2349)
 
 ---
-
-## 🚀 Projects I'm Proud Of
-
-### 🎵 Spotify Lite  
-🎧 Simple, elegant music player using **HTML, CSS, JS**  
-🔘 Features: Theme toggle, volume control, progress bar
-
-### 📚 Library Management System  
-📖 C++ console app for managing books and users  
-🛠️ OOP-based, file handling, menu interface
-
-### 🏥 Hospital Management System  
-🩺 C++ app for patient & billing management  
-📂 Modular, scalable, intuitive logic
-
-### 🌐 Personal Portfolio  
-💻 Responsive site with **HTML/CSS/JS**  
-📸 Includes project showcase, contact form, and skills
-
----
+🚀 Featured Projects
+<div align="center"> <table> <tr> <td align="center" width="50%"> <h3>Spotify Lite</h3> <p> A clean and functional music player built with <strong>HTML, CSS, and JavaScript</strong>. Features include theme toggle, volume control, and a responsive layout. </p> </td> <td align="center" width="50%"> <h3>Library Management System</h3> <p> Console-based application in <strong>C++</strong> for managing books and users. Uses file handling, object-oriented principles, and a user-friendly menu. </p> </td> </tr> <tr> <td align="center" width="50%"> <h3>Hospital Management System</h3> <p> Developed in <strong>C++</strong> for managing patients, appointments, and billing. Emphasizes modular code, scalability, and logical structure. </p> </td> <td align="center" width="50%"> <h3>Personal Portfolio</h3> <p> A fully responsive personal website using <strong>HTML, CSS, and JavaScript</strong>. Includes sections for skills, projects, contact form, and social links. </p> </td> </tr> </table> </div>
 
 ## 🛠️ Tech Stack
 
