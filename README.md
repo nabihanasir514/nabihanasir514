@@ -27,11 +27,11 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center"><strong>About Me</strong></h2>
 
-I'm **Nabiha Nasir**, a Software Engineering student passionate about crafting efficient and user-friendly software. I enjoy solving real-world problems with code and continuously improving my technical skills.
+I'm <strong>Nabiha Nasir</strong>, a Software Engineering student passionate about crafting efficient and user-friendly software. I enjoy solving real-world problems with code and continuously improving my technical skills.
 
-**Key Interests:**
+<strong>Key Interests:</strong>
 - Web Development (Frontend & Backend)
 - Data Structures & Algorithms
 - Full Stack Projects with Practical Use Cases
@@ -40,7 +40,7 @@ I'm always open to learning, collaborating, and contributing to meaningful tech 
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center"><strong>Featured Projects</strong></h2>
 
 <div align="center"> 
   <table>
@@ -69,7 +69,7 @@ I'm always open to learning, collaborating, and contributing to meaningful tech 
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center"><strong>Tech Stack</strong></h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -82,7 +82,7 @@ I'm always open to learning, collaborating, and contributing to meaningful tech 
 
 ---
 
-<h2 align="center">Currently Working On</h2>
+<h2 align="center"><strong>Currently Working On</strong></h2>
 
 - Building a To-Do App with React  
 - Practicing competitive programming (LeetCode, HackerRank)  
@@ -90,7 +90,7 @@ I'm always open to learning, collaborating, and contributing to meaningful tech 
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"><strong>GitHub Stats</strong></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabihanasir514&show_icons=true&theme=tokyonight" width="48%" />
@@ -105,7 +105,7 @@ I'm always open to learning, collaborating, and contributing to meaningful tech 
 
 ---
 
-<h2 align="center">Quote of the Day</h2>
+<h2 align="center"><strong>Quote of the Day</strong></h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
