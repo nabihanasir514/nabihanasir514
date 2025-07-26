@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./redmi.jpg" alt="Nabiha Coding Banner" style="width: 100%; height: 100; max-height: 100px; object-fit: cover; object-position: top;" />
+  <img src="./redmi.jpg" alt="Nabiha Coding Banner" style="width: 100%; max-height: 100px; object-fit: cover; object-position: top;" />
 </div>
 
 <br>
@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=F94F6D&center=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Nabiha+Nasir!+Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nabiha-nasir-4a06a2349" target="_blank">
@@ -28,26 +27,49 @@
 
 ---
 
----
+<h2 align="center">About Me</h2>
 
-## 👩‍💻 About Me
+I'm **Nabiha Nasir**, a Software Engineering student passionate about crafting efficient and user-friendly software. I enjoy solving real-world problems with code and continuously improving my technical skills.
 
-## About Me
+**Key Interests:**
+- Web Development (Frontend & Backend)
+- Data Structures & Algorithms
+- Full Stack Projects with Practical Use Cases
 
-Hi, I'm Nabiha Nasir, a Software Engineering student passionate about solving real-world problems through code. I enjoy developing clean, efficient solutions and constantly learning new technologies to sharpen my skills.
-
-### Interests
-- Backend and Frontend Development
-- Data Structures and Algorithms
-- Building meaningful, user-friendly applications
-
-I'm committed to growth through consistent practice and meaningful projects. Open to collaboration and always eager to learn.
+I'm always open to learning, collaborating, and contributing to meaningful tech initiatives.
 
 ---
-🚀 Featured Projects
-<div align="center"> <table> <tr> <td align="center" width="50%"> <h3>Spotify Lite</h3> <p> A clean and functional music player built with <strong>HTML, CSS, and JavaScript</strong>. Features include theme toggle, volume control, and a responsive layout. </p> </td> <td align="center" width="50%"> <h3>Library Management System</h3> <p> Console-based application in <strong>C++</strong> for managing books and users. Uses file handling, object-oriented principles, and a user-friendly menu. </p> </td> </tr> <tr> <td align="center" width="50%"> <h3>Hospital Management System</h3> <p> Developed in <strong>C++</strong> for managing patients, appointments, and billing. Emphasizes modular code, scalability, and logical structure. </p> </td> <td align="center" width="50%"> <h3>Personal Portfolio</h3> <p> A fully responsive personal website using <strong>HTML, CSS, and JavaScript</strong>. Includes sections for skills, projects, contact form, and social links. </p> </td> </tr> </table> </div>
 
-## 🛠️ Tech Stack
+<h2 align="center">Featured Projects</h2>
+
+<div align="center"> 
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>Spotify Lite</h4>
+        <p>A clean music player using <strong>HTML, CSS, JavaScript</strong> with dark/light themes, volume control, and responsive layout.</p>
+      </td>
+      <td align="center" width="50%">
+        <h4>Library Management System</h4>
+        <p>Console-based <strong>C++</strong> application with file handling and object-oriented programming for managing books and users.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>Hospital Management System</h4>
+        <p>Developed in <strong>C++</strong> for managing patients, appointments, and billing. Modular and scalable design.</p>
+      </td>
+      <td align="center" width="50%">
+        <h4>Personal Portfolio</h4>
+        <p>Responsive personal website using <strong>HTML, CSS, and JavaScript</strong> showcasing skills, projects, and contact info.</p>
+      </td>
+    </tr>
+  </table> 
+</div>
+
+---
+
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -60,15 +82,15 @@ I'm committed to growth through consistent practice and meaningful projects. Ope
 
 ---
 
-## 🌱 Currently Working On
+<h2 align="center">Currently Working On</h2>
 
-- Building a To-Do Web App with React
-- Practicing competitive programming on LeetCode
-- Expanding my portfolio with real-world projects
+- Building a To-Do App with React  
+- Practicing competitive programming (LeetCode, HackerRank)  
+- Enhancing my personal portfolio with real-world projects  
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabihanasir514&show_icons=true&theme=tokyonight" width="48%" />
@@ -83,7 +105,7 @@ I'm committed to growth through consistent practice and meaningful projects. Ope
 
 ---
 
-## 💬 Quote of the Day
+<h2 align="center">Quote of the Day</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
@@ -92,7 +114,5 @@ I'm committed to growth through consistent practice and meaningful projects. Ope
 ---
 
 <div align="center">
-  <em>✨ Thanks for visiting! Feel free to explore my projects and drop a ⭐ if something inspires you.</em>
-  <br/>
-  <em>🚀 Let's keep building and growing together!</em>
+  <em>Thanks for visiting! Feel free to check out my work and connect if you're interested in collaboration.</em>
 </div>
